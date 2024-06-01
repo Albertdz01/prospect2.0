@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="header__main">
 			<a class="header__logo" href="/">
-				<img src="/front/pages/img/logo.svg" alt="Logo">
+				<img src="/front/pages/img/Logo.svg" alt="Logo">
 			</a>
 			<ul class="header__menu">
 				<a href="/articles/news/"><li class="header__item">Новости</li></a>

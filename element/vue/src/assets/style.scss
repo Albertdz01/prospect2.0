@@ -1,6 +1,7 @@
 *{outline: 0px;}
 body{
 	font-family: $mainFont;
+	background-color: rgb(17, 30, 39);
 }
 pre
 {
@@ -38,7 +39,7 @@ pre
 // gray
 .el-gbtn
 {
-	background-color: rgba(103, 115, 135, 0.1);
+	background-color: rgba(70, 59, 59, 0.1);
     border-radius: 2px;
     border: none;
     padding: 0 10px;
