@@ -1469,7 +1469,7 @@ header.header--dark {
   font-size: 16px;
   line-height: 24px;
   text-align: center;
-  color: #575966;
+  color: #ffffff;
   padding: 0 14px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -3146,6 +3146,7 @@ html {
 
   .footer__logo {
     margin-bottom: 32px;
+    display: none;
   }
 
   .g-slider {
@@ -4144,6 +4145,9 @@ html {
   .footer__logo,
   .footer__list {
     margin-bottom: 0;
+  }
+  .footer__logo {
+    display: none;
   }
 
   .footer__list a {
