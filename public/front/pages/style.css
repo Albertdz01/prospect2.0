@@ -1483,7 +1483,7 @@ header.header--dark {
   font-size: 16px;
   line-height: 24px;
   text-transform: uppercase;
-  color: #181920;
+  color: #ffffff;
   padding: 0 64px;
   height: 64px;
   line-height: 64px;
@@ -2323,7 +2323,7 @@ header.header--dark {
   font-weight: 700;
   font-size: 18px;
   line-height: 32px;
-  color: #181920;
+  color: #ffffff;
 }
 
 .crystal__name {
@@ -2505,7 +2505,7 @@ header.header--dark {
 
 .author__block {
   margin-bottom: 24px;
-  display: grid;
+  display: none;
   grid-template-areas: "img data" "tags tags";
   grid-template-columns: 64px auto;
   grid-column-gap: 16px;
