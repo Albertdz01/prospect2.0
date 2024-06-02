@@ -720,7 +720,7 @@ footer .container {
 .footer__copyright {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  display: none;
   margin-bottom: 24px;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -735,6 +735,7 @@ footer .container {
 
 .footer__develop {
   text-align: center;
+  display: none;
 }
 
 .footer__archiev,
