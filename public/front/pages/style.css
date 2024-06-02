@@ -1698,7 +1698,7 @@ header.header--dark {
   margin: 0;
   font-size: 16px;
   line-height: 24px;
-  color: #575966;
+  color: #ffffff;
 }
 
 .digest__description {
@@ -4066,6 +4066,7 @@ html {
   .digest__desc {
     font-size: 20px;
     line-height: 32px;
+    color: white;
   }
 
   .magazines__block-image {
@@ -4229,6 +4230,7 @@ html {
     font-size: 20px;
     line-height: 32px;
     padding: 0;
+    color: white;
   }
 
   .info {
