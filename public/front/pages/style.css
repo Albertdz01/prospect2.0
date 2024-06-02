@@ -670,6 +670,7 @@ footer .container {
 .footer__logo {
   text-align: center;
   margin-bottom: 26px;
+  display: none;
 }
 
 .footer__list {
@@ -1051,6 +1052,7 @@ footer .container {
   -webkit-transition: opacity 0.3s ease;
   -o-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
+  display: none;
 }
 
 .g-slider.slick-initialized {
@@ -3014,7 +3016,7 @@ header.header--dark {
   grid-area: description;
   font-size: 20px;
   line-height: 32px;
-  color: #575966;
+  color: #ffffff;
   -ms-flex-item-align: self-end;
   align-self: self-end;
 }
