@@ -1914,7 +1914,7 @@ header.header--dark {
   font-size: 16px;
   line-height: 24px;
   text-transform: uppercase;
-  color: #181920;
+  color: #ffffff;
   height: 64px;
   line-height: 64px;
   padding: 0 40px;
@@ -3754,6 +3754,7 @@ html {
     font-size: 32px;
     line-height: 48px;
     margin-bottom: 24px;
+    color: white;
   }
 
   .crystal__desc {
@@ -4502,6 +4503,7 @@ html {
   .crystal h2 {
     font-style: normal;
     font-weight: normal;
+    color: white;
   }
 
   .crystal__absolute {
