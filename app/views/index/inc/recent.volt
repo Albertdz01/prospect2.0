@@ -1,4 +1,4 @@
-<section class="recent" style="background-color: #111e27;">
+<!-- <section class="recent" style="background-color: #111e27;">
 	<div class="container recent__container">
 		<div class="recent__block">
 			<div class="recent__magazine">
@@ -11,4 +11,4 @@
 		</div>
 		{% include "inc/poupap.volt" %}
 	</div>
-</section>
+</section> -->
