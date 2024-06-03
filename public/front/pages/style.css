@@ -1776,6 +1776,7 @@ header.header--dark {
 
 .recent {
   background: #111e27;
+  display: none;
 }
 
 .recent .recent__container {
