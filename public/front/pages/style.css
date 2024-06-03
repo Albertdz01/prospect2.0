@@ -1304,6 +1304,7 @@ header.header--dark {
 .header__burger {
   position: relative;
   z-index: 10;
+  margin-bottom: 70px;
 }
 
 .header__burger span {
