@@ -8,12 +8,12 @@
 			</a> -->
 			<ul class="footer__list">
 				<li><a class="footer__link" href="/articles/news/">Новости</a></li>
-				<li><a class="footer__link footer__archiev" href="/archive/">Архив номеров</a></li>
+				<!-- <li><a class="footer__link footer__archiev" href="/archive/">Архив номеров</a></li> -->
 				<li><a class="footer__link footer__interview" href="/articles/interview/">Интервью</a></li>
 				<li><a class="footer__link footer__person" href="/articles/person/">Персона</a></li>
 				<li><a class="footer__link footer__photoproject" href="/articles/photoprojects/">Фотопроекты</a></li>
-				<li><a class="footer__link footer__rubric" href="/rubric/">Рубрики</a></li>
-				<li><a class="footer__link footer__contacts" href="/contacts/">Контакты</a></li>
+				<!-- <li><a class="footer__link footer__rubric" href="/rubric/">Рубрики</a></li>
+				<li><a class="footer__link footer__contacts" href="/contacts/">Контакты</a></li> -->
 			</ul>
 		</div>
 		<div class="footer__border"></div>
