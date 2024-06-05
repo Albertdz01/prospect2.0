@@ -4,6 +4,6 @@
 	{% include "contacts/inc/edition.volt" %}
 	{% include "contacts/inc/advertising.volt" %}
 	{% if contacts|length %}
-	{% include "contacts/inc/staff.volt" %}
+	<!-- {% include "contacts/inc/staff.volt" %} -->
 	{% endif %}
 {% endblock %}

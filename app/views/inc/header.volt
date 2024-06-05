@@ -10,8 +10,8 @@
 				<a href="/articles/interview/"><li class="header__item">Интервью</li></a>
 				<a href="/articles/person/"><li class="header__item">Персона</li></a>
 				<a href="/articles/photoprojects/"><li class="header__item">Фотопроекты</li></a>
-				<!-- <a href="/rubric/"><li class="header__item">Рубрики</li></a>
-				<a href="/contacts/"><li class="header__item header__item-flex">Контакты</li></a> -->
+				<!-- <a href="/rubric/"><li class="header__item">Рубрики</li></a> -->
+				<a href="/contacts/"><li class="header__item header__item-flex">Контакты</li></a> 
 			</ul>
 			<div onclick="o2.mobileMenu.toggle()" class="header__burger _mobile-burger">
 				<span></span>
@@ -29,8 +29,8 @@
 				<li><a href="/articles/interview/" class="mobile-menu__item">Интервью</a></li>
 				<li><a href="/articles/person/" class="mobile-menu__item">Персона</a></li>
 				<li><a href="/articles/photoprojects/" class="mobile-menu__item">Фотопроекты</a></li>
-				<!-- <li><a href="/rubric/" class="mobile-menu__item">Рубрики</a></li>
-				<li><a href="/contacts/" class="mobile-menu__item">Контакты</a></li> -->
+				<!-- <li><a href="/rubric/" class="mobile-menu__item">Рубрики</a></li> -->
+				<li><a href="/contacts/" class="mobile-menu__item">Контакты</a></li> 
 			</ul>
 		</div>
 	</div>

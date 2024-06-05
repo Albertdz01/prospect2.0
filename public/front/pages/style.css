@@ -2004,7 +2004,7 @@ header.header--dark {
   font-weight: normal;
   font-size: 20px;
   line-height: 32px;
-  color: #181920;
+  color: #ffffff;
 }
 
 .advertising__text {
@@ -2023,7 +2023,7 @@ header.header--dark {
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #575966;
+  color: #ffffff;
   margin-bottom: 24px;
 }
 
@@ -2043,7 +2043,7 @@ header.header--dark {
   font-size: 16px;
   line-height: 24px;
   text-align: center;
-  color: #575966;
+  color: #ffffff;
 }
 
 .advertising__img {
@@ -4129,7 +4129,7 @@ html {
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
-    color: #575966;
+    color: #fdfdfd;
     margin-bottom: 20px;
   }
 
