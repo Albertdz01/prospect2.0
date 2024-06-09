@@ -10,7 +10,7 @@ class ControllerBase extends Controller
 	 */
 	public function initialize()
 	{
-		$this->view->setVar('title','Проспект Северный Кавказ');
+		$this->view->setVar('title','news-street');
 	}
 
 	/**

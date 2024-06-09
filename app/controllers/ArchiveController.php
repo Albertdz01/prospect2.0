@@ -4,7 +4,7 @@ class ArchiveController extends ControllerBase
 {
 	public function indexAction()
 	{
-		$this->view->setVar('title','Архив | Проспект Северный Кавказ');
+		$this->view->setVar('title','Архив | news-street');
 		$journals = Journals::find([
 			'is_active = 1',
 			'order' => 'date DESC',

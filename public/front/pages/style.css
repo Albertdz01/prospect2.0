@@ -1053,7 +1053,7 @@ footer .container {
   -webkit-transition: opacity 0.3s ease;
   -o-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
-  display: none;
+  /* display: none; */
 }
 
 .g-slider.slick-initialized {

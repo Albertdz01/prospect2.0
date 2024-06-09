@@ -11,7 +11,7 @@ class ContactsController extends ControllerBase
 
 		$this->view->setVar('contacts', $contacts);
 		$this->view->setVar('manager', $manager);
-		$this->view->setVar('title','Контакты | Проспект Северный Кавказ');
+		$this->view->setVar('title','Контакты | news-street');
 		$staticBlocks = StaticBlocks::find("code='contacts_title' OR code='contacts_description'");
 		$this->view->setVar('contactsTitle', '');
 		$this->view->setVar('contactsDescription', '');

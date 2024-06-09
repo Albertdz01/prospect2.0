@@ -32,7 +32,7 @@ class ArticlesController extends ControllerBase
 				$this->view->setVar('pageDescription', $content->blocks[0]->data->text);
 			}
 		}
-		$this->view->setVar('title',"{$title} | Проспект Северный Кавказ");
+		$this->view->setVar('title',"{$title} | news-street");
 		$this->view->setVar('pageName',$title);
 		$posts = Posts::find([
 			'conditions' => 'category = ?0 AND is_active = 1',
