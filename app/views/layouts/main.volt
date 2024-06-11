@@ -18,7 +18,7 @@
 	<title>{{ title }}</title>
 	<!-- TODO: add prod script -->
 	<!-- WHATSAPP WIDGET -->
-	<script>(function () { var widget = document.createElement('script'); widget.dataset.pfId = 'c0911108-91c6-433d-b843-589ea517dfb0'; widget.src = 'https://widget.yourgood.app/script/widget.js?id=c0911108-91c6-433d-b843-589ea517dfb0&now='+Date.now(); document.head.appendChild(widget); })()</script>
+	<!-- <script>(function () { var widget = document.createElement('script'); widget.dataset.pfId = 'c0911108-91c6-433d-b843-589ea517dfb0'; widget.src = 'https://widget.yourgood.app/script/widget.js?id=c0911108-91c6-433d-b843-589ea517dfb0&now='+Date.now(); document.head.appendChild(widget); })()</script> -->
 
 	<!-- Yandex.Metrika counter -->
 	<script type="text/javascript" >
