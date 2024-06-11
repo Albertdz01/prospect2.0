@@ -1290,7 +1290,7 @@ header.header--dark {
   height: 100%;
   -o-object-fit: contain;
   object-fit: contain;
-  display: none;
+  
 }
 
 .header__menu {
