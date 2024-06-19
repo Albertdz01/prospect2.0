@@ -75,16 +75,7 @@
 				</li>
 			</ul>
 		</div>
-		<div class="sidebar-footer">
-			<a href="https://odva.pro" target="_blank" class="sidebar-develop-wrapper">
-				<span class="sidebar-develop-label">{{$t('developed_by')}}</span>
-				<div class="sidebar-develop-img">
-					<svg width="38" height="31" fill="none">
-						<use xlink:href="#logo-dev"></use>
-					</svg>
-				</div>
-			</a>
-		</div>
+		
 		<div class="sidebar_drug"></div>
 	</div>
 </template>
@@ -415,6 +406,7 @@
 	}
 	.sidebar-footer
 	{
+		display: none;
 		padding: 20px 0;
 		position: sticky;
 		bottom: 0px;
